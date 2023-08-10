@@ -1,4 +1,9 @@
-### Hi there 👋
+👋 Hi, I’m @tim-eckle-ingdilligenz.  
+👀 I’m interested in Data Science, AI, ML Engineering and Deployment and Sustainability!  
+🌱 I’m currently learning how to apply LLMs to help our company with EU regulations and legislation.  
+💞️ I’m looking to collaborate on lots of things.  
+💬 Feel free to ask me about any sustainability related topics.  
+📫 How to reach me: send an email to Tim.Eckle@ingdilligenz.de  
 
 <!--
 **tim-eckle-ingdilligenz/tim-eckle-ingdilligenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
